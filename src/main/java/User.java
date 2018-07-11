@@ -6,6 +6,7 @@ public class User {
     public void test(){
         System.out.println("666666");
         System.out.println("bu6");
+        System.out.println("bu6");
     }
     public String getPassword() {
         return password;
